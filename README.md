@@ -15,7 +15,7 @@ This library was created primarily for [Slackyboy](https://github.com/sagebind/s
 Install with [Composer](http://getcomposer.org), obviously:
 
 ```sh
-$ composer require mpociot/slack-client
+$ composer require apvanlaan/slack-client
 ```
 
 Please note that the current version has unstable dependencies.
